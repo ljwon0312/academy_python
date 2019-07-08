@@ -1,0 +1,3 @@
+enter the file name : try_5.txt
+enter the number : 7
+423 27 15.666666666666666
